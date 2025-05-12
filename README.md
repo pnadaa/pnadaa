@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 👀 I’m a PhD candidate working on insertion sequences in bacteria
+- 🌱 I’m currently learning python to augment my web-lab skills!
+- ⚡ Many of my programs desgined for use on the [Katana cluster](https://docs.restech.unsw.edu.au/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnadaa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pnadaa/pnadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
