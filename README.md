@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👀 I’m a PhD candidate working on insertion sequences in bacteria
-- 🌱 I’m currently learning python to augment my web-lab skills!
+- 🌱 I’m currently creating and implementing python programs to augment my web-lab work!
 - ⚡ Many of my programs desgined for use on the [Katana cluster](https://docs.restech.unsw.edu.au/)
 
 
