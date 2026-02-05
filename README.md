@@ -4,7 +4,8 @@
 - ⚡ Many of my programs desgined for use on the [Katana cluster](https://docs.restech.unsw.edu.au/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnadaa&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://pnada-3sf3.vercel.app/api/top-langs/?username=pnadaa&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+pnada-3sf3-pnadaas-projects.vercel.app
 
 <!--
 **pnadaa/pnadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
